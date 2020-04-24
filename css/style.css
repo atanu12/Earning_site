@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.project img{
+    height: 240px;
+    width: 100%;
+    margin-top: 10px;
+    margin-right: 10px;
+    align-items: center;
+    align-content: center;
+    box-shadow: 1px 2px 10px black;
+}
+.project h3,p{
+    margin-top: 5%;
+    margin-left: 4%;
+    text-align:left;
+}
+div .btn1{
+    margin-top: 5%;
+    margin-left: 4%;
+    text-align:center;
+    color: white;
+    background-color: black;
+    box-shadow: 1px 2px 10px black;
+}
+div .btn1:hover{
+    background-color: cornsilk;
+    transition: 0.4s;
+}
